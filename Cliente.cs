@@ -21,8 +21,5 @@ namespace practicaCine1
             this.dniCliente = dni;
             this.generoDniCliente = genero;
         }
-
-        
-
     }
 }

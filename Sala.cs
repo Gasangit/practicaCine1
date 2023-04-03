@@ -9,7 +9,7 @@ namespace practicaCine1
     internal class Sala
     {
         private String nombreSala;
-        private int capacidadSala
+        private int capacidadSala;
 
         public Sala(String nombreSala, int capacidadSala)
         {
